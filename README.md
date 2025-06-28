@@ -1,7 +1,11 @@
   🏨 Hotel Booking Website
+
+
 A responsive and modern hotel booking web application built with React. This project showcases hotel listings, room types, booking forms, and beautiful UI/UX for travel and hospitality.
 
 🚀 Features
+
+
 🏠 Homepage with hero banner and promotional highlights
 
 🏨 Hotel listings with images, price, and ratings
@@ -30,20 +34,30 @@ A responsive and modern hotel booking web application built with React. This pro
 -*EmailJS or Firebase (optional for form submission)
 
 📁 Project Setup
+
+
 1️⃣ Clone the Repository
+
 bash
+
 git clone https://github.com/afia0872/Hotel-Booking.git
 cd hotel-booking-website
 
 2️⃣ Install Dependencies
+
 bash
+
 npm install
 
 3️⃣ Run the Development Server
+
 bash
+
 npm run dev
 Open in browser: http://localhost:5173
 
 4️⃣ Build for Production
+
 bash
+
 npm run build
